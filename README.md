@@ -51,11 +51,14 @@ The platform should provide the following key features:
 3. Transparent and automatic payment distribution to all involved parties.
 
 
-<!-- # Rules And Points scheme (To be updated) -->
+# Instructions
+- You have to solve ANY ONE Question
+- For Blockchain you have to solve both(Q4 and Q5) the problems
+- You can work on this from any where
 
 # Deadline: `15th EOD`
 
 # Bonus Points
 - Innovation
-- Deployment
+- Deployment (For Q1, Q2, and Q3)
 - UI/UX
