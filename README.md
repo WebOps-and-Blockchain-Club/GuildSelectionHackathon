@@ -6,7 +6,7 @@
 
 1. Role based auth (Admin should have ability to change permission)
 2. It should use Web Sockets in some feature.
-3. The need to use display in memory data base like redis for caching along side the primary database.
+3. The need to use display in memory data base like redis for caching along side the primary database. (Optional)
 4. Use some extrenal Apis.
 
 Its  a open ended Problem use as many as you can of the above points. The creativity of the final submission matters a lot.
@@ -16,7 +16,7 @@ Its  a open ended Problem use as many as you can of the above points. The creati
  Develop a seamless, integrated platform designed to enhance productivity and collaboration for remote teams. This solution will include key features such as real-time messaging, task management, and collaborative editing of documents and spreadsheets. (Make something better than notion)
 Tech Stack:
 Any other frontend framework/library or HTML/CSS, Node.js, MongoDB or PostgreSQL, Socket.io
-Bonus: `WebRTC`
+Bonus: `WebRTC` (Optional)
 
 ## Q3.
 
@@ -25,7 +25,7 @@ Make a Mobile App the uses the following features
 1. Computer vision
    1. QR reading.
    2. Photo aliging(like in PDF parsers)
-2. WebRTC
+2. WebRTC (Optional)
 3. Video Streaming for a database.
    use your creativity to make something the people with like to use.
 
@@ -50,12 +50,33 @@ The platform should provide the following key features:
 2. Track who has paid and who hasn’t via blockchain.
 3. Transparent and automatic payment distribution to all involved parties.
 
+## Q6 
+ Title:  Build a Note-Taking Webpage
+
+ Overview: 
+As part of the hackathon, your challenge is to create a simple yet functional note-taking webpage using  HTML,   CSS, and   JavaScript. The focus is on building a platform that allows users to   create, save, and view notes  using basic file operations. You'll need to demonstrate the ability to manipulate data through front-end interactions and present a user-friendly interface.
+
+ Core Requirements: 
+1.  Webpage Features :
+   - Users should be able to  create  new notes.
+   - Users should be able to  view  their saved notes.
+   - Implement functionality to  save  and  retrieve  notes using basic file operations (e.g., get and put).
+
+2.  User Interface (UI) :
+   - Create a clean, intuitive design for the note-taking webpage.
+   - Use  HTML  for structure,  CSS  for styling, and  JavaScript  for dynamic interactions.
+
+ Bonus Points :
+-  Innovation : Think outside the box! Any creative features that enhance the note-taking experience will earn extra points.
+
 # Instructions
 
-- You have to solve ANY ONE Question
+- You have to solve ANY ONE Question amoung Q1 Q2 and Q3 for Web Dev and App Dev guild
+- If you are a new to Web Dev try Q6
 - For Blockchain you have to solve both(Q4 and Q5) the problems
+- For questions 4th and 5th full functioning websites should be made(not just smart contracts)
 - You can work on this from any where
-- You vercel or netlify for deployment
+- Deploy your webpage on platforms like   Vercel  and host the code on  GitHub  for public viewing and feedback.
 
 # Deadline: `15th EOD`
 
