@@ -9,7 +9,7 @@
 Its  a open ended Problem use as many as you can of the above points. The creativity of the final submission matters a lot.
 
 ## Q2.
- Develop a seamless, integrated platform designed to enhance productivity and collaboration for remote teams. This solution will include key features such as real-time messaging, task management, and collaborative editing of documents and spreadsheets.
+ Develop a seamless, integrated platform designed to enhance productivity and collaboration for remote teams. This solution will include key features such as real-time messaging, task management, and collaborative editing of documents and spreadsheets. (Make something better than notion)
 Tech Stack:
 Any other frontend framework/library or HTML/CSS, Node.js, MongoDB or PostgreSQL, Socket.io
 Bonus: `WebRTC`
@@ -53,7 +53,7 @@ The platform should provide the following key features:
 
 <!-- # Rules And Points scheme (To be updated) -->
 
-# Deadline: 15th EOD
+# Deadline: `15th EOD`
 
 # Bonus Points
 - Innovation
