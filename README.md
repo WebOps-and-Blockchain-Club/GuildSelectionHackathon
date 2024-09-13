@@ -2,6 +2,8 @@
 
 > _Don't build alone_
 
+> _Read the instructions carefully and contact us in case of any doubts_
+
 ## Q1. Make a simple Website that show cares the following features
 
 1. Role based auth (Admin should have ability to change permission)
