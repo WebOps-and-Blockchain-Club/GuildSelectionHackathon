@@ -11,7 +11,7 @@ Its  a open ended Problem use as many as you can of the above points. The creati
 ## Q2.
  Develop a seamless, integrated platform designed to enhance productivity and collaboration for remote teams. This solution will include key features such as real-time messaging, task management, and collaborative editing of documents and spreadsheets.
 Tech Stack:
-Any other frontend framework/library or HTML/CSS, Node.js, MongoDB or PostgreSQL, Socket.io
+React.js, Node.js, MongoDB or PostgreSQL, Socket.io
 Bonus: `WebRTC`
 
 ## Q3.
@@ -49,13 +49,3 @@ The platform should provide the following key features:
 2. Track who has paid and who hasn’t via blockchain.
 
 3. Transparent and automatic payment distribution to all involved parties.
-
-
-<!-- # Rules And Points scheme (To be updated) -->
-
-# Deadline: 15th EOD
-
-# Bonus Points
-- Innovation
-- Deployment
-- UI/UX
