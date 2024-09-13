@@ -15,7 +15,7 @@ Any other frontend framework/library or HTML/CSS, Node.js, MongoDB or PostgreSQL
 Bonus: `WebRTC`
 
 ## Q3.
-Make a App the uses the following features
+Make a Mobile App the uses the following features
 1. Computer vision
     1. QR reading.
     2. Photo aliging(like in PDF parsers)
