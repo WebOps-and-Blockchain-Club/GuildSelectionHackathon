@@ -1,6 +1,6 @@
 # Welcome the Software Dev Guild Selections
 
-> *Do build alone*
+> *Don't build alone*
 
 ## Q1. Make a simple Website that show cares the following features
 
