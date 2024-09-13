@@ -50,8 +50,8 @@ The platform should provide the following key features:
 2. Track who has paid and who hasn’t via blockchain.
 3. Transparent and automatic payment distribution to all involved parties.
 
-## Q6 
- Title:  Build a Note-Taking Webpage
+## Q6 (only for Freshies)
+ ### Title:  Build a Note-Taking Webpage
 
  Overview: 
 As part of the hackathon, your challenge is to create a simple yet functional note-taking webpage using  HTML,   CSS, and   JavaScript. The focus is on building a platform that allows users to   create, save, and view notes  using basic file operations. You'll need to demonstrate the ability to manipulate data through front-end interactions and present a user-friendly interface.
